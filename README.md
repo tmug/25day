@@ -12,3 +12,9 @@ projects is inspired by:
  [TED1]: http://www.youtube.com/watch?v=JnfBXjWm7hc
  [TED2]: https://www.youtube.com/watch?v=5MgBikgcWnY
  [25d]: https://github.com/susam/25d
+
+The following is a list of my 25 day projects.
+
+* [2015-06: Learn JavaScript from MDN JavaScript Guide] [001]
+
+ [001]: 2015-06#readme
