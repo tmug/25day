@@ -36,6 +36,7 @@ Progress log
     03   2015-06-03  Exception handling - nesting & return statements
     04   2015-06-04  Loops and iteration - for, while, do...while
     05   2015-06-07  Label, break, continue, for...in
+    06   2015-06-11  Defining functions - declarations & expressions
 
 Conclusion
 ----------
