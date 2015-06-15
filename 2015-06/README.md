@@ -37,6 +37,11 @@ Progress log
     04   2015-06-04  Loops and iteration - for, while, do...while
     05   2015-06-07  Label, break, continue, for...in
     06   2015-06-11  Defining functions - declarations & expressions
-
+    07   2015-06-13  Calling functions and function scope
+    08   2015-06-14  Function stack, recursion, nesting functions,
+                     closures
+    09   2015-06-15  Arguments object, function parameters - default &
+                     rest
+    
 Conclusion
 ----------
