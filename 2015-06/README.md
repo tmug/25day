@@ -42,6 +42,7 @@ Progress log
                      closures
     09   2015-06-15  Arguments object, function parameters - default &
                      rest
+    10   2015-06-18  Indexed collections - arrays, Array object                 
     
 Conclusion
 ----------
