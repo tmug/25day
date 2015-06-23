@@ -44,6 +44,8 @@ Progress log
                      rest
     10   2015-06-18  Indexed collections - arrays, Array object                 
     11   2015-06-21  Array methods - concat, join, push, pop
+    12   2015-06-22  Array methods - shift, unshift, slice
+    13   2015-06-23  Array methods - reverse, sort, indexOf
     
 Conclusion
 ----------
