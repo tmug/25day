@@ -46,6 +46,7 @@ Progress log
     11   2015-06-21  Array methods - concat, join, push, pop
     12   2015-06-22  Array methods - shift, unshift, slice
     13   2015-06-23  Array methods - reverse, sort, indexOf
+    14   2015-06-25  Array method - splice
     
 Conclusion
 ----------
