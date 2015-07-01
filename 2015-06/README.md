@@ -48,6 +48,7 @@ Progress log
     13   2015-06-23  Array methods - reverse, sort, indexOf
     14   2015-06-25  Array method - splice
                      Array method - lastIndexOf
+    15   2015-07-01  Array methods - forEach, every, some          
     
 Conclusion
 ----------
