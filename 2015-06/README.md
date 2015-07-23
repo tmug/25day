@@ -51,6 +51,7 @@ Progress log
     15   2015-07-01  Array methods - forEach, every, some          
     16   2015-07-20  Array method - map
     17   2015-07-22  Array method - filter
+    18   2015-07-23  Array methods - reduce, reduceRight
     
 Conclusion
 ----------
