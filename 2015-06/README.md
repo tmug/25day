@@ -52,6 +52,7 @@ Progress log
     16   2015-07-20  Array method - map
     17   2015-07-22  Array method - filter
     18   2015-07-23  Array methods - reduce, reduceRight
+    19   2015-07-27  Object properties, creating new objects 
     
 Conclusion
 ----------
