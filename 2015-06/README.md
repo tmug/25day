@@ -54,6 +54,9 @@ Progress log
     18   2015-07-23  Array methods - reduce, reduceRight
     19   2015-07-27  Object properties, creating new objects 
     20   2015-07-28  Enumerating object properties
+    21   2015-07-31  Defining methods, defining properties for object
+                     type
+                     Deleting properties
     
 Conclusion
 ----------
