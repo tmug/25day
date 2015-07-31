@@ -57,6 +57,7 @@ Progress log
     21   2015-07-31  Defining methods, defining properties for object
                      type
                      Deleting properties
+                     Comparing objects
     
 Conclusion
 ----------
