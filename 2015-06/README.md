@@ -58,6 +58,7 @@ Progress log
                      type
                      Deleting properties
                      Comparing objects
+    22   2015-08-02  Inheritance with the prototype chain
     
 Conclusion
 ----------
