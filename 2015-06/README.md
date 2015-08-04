@@ -59,6 +59,7 @@ Progress log
                      Deleting properties
                      Comparing objects
     22   2015-08-02  Inheritance with the prototype chain
+    23   2015-08-04  Prototype - property, attribute
     
 Conclusion
 ----------
