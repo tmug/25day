@@ -61,6 +61,9 @@ Progress log
     22   2015-08-02  Inheritance with the prototype chain
     23   2015-08-04  Prototype - property, attribute
     24   2015-08-23  Defining getters and setters
+    25   2015-08-31  Regular Expressions - test, exec
+                     Parenthesized substring matches
+                     Advanced searching with flags
     
 Conclusion
 ----------
