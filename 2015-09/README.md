@@ -1,5 +1,5 @@
-September 2015: Core Java Volume I - Fundamentals, 8th ed.
-==========================================================
+September 2015: Core Java Volume I, 8th ed.
+===========================================
 
 This is my second 25 day project. This activity consists of learning
 Java concepts from the book, Core Java Volume I--Fundamentals, 8th ed.
