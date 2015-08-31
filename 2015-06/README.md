@@ -67,3 +67,9 @@ Progress log
     
 Conclusion
 ----------
+
+I started this project on 01 June 2015 and finished it on 31 August
+2015. ECMAScript 2015 (ES6) standard was not released when I started
+this project. Hence, I have only focused on the concepts of JavaScript
+conforming to ECMAScript 5 standard. I intend to learn more features of
+JavaScript in future.
