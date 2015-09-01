@@ -19,4 +19,4 @@ The following is a list of my 25 day projects.
 * [2015-09: Core Java Volume I, 8th ed.] [002]
 
  [001]: 2015-06#readme
- [002]: 2015-06#readme
+ [002]: 2015-09#readme
