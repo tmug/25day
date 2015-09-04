@@ -17,6 +17,9 @@ Progress log
 
     Day  Date        Comment
     ---  ----------  -------
+    00   2015-09-01  Hello World
+    01   2015-09-02  Data types, Type casting
+    02   2015-09-04  Variables, Constants, Operators
 
 Conclusion
 ----------
