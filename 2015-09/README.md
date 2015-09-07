@@ -20,6 +20,8 @@ Progress log
     00   2015-09-01  Hello World
     01   2015-09-02  Data types, Type casting
     02   2015-09-04  Variables, Constants, Operators
+    03   2015-09-07  Enumerated types, String, string sharing,
+                     StringBuilder
 
 Conclusion
 ----------
