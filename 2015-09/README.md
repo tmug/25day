@@ -22,6 +22,9 @@ Progress log
     02   2015-09-04  Variables, Constants, Operators
     03   2015-09-07  Enumerated types, String, string sharing,
                      StringBuilder
+    04   2015-09-09  Control flow
+                     Statements that break control flow - break, labeled
+                     break
 
 Conclusion
 ----------
