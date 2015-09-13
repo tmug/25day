@@ -25,6 +25,7 @@ Progress log
     04   2015-09-09  Control flow
                      Statements that break control flow - break, labeled
                      break
+    05   2015-09-13  Arrays, Arrays.copyOf, System.arraycopy
 
 Conclusion
 ----------
