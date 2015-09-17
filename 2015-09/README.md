@@ -26,6 +26,8 @@ Progress log
                      Statements that break control flow - break, labeled
                      break
     05   2015-09-13  Arrays, Arrays.copyOf, System.arraycopy
+    06   2015-09-15  GregorianCalendar
+    07   2015-09-16  Class name rule, constructors
 
 Conclusion
 ----------
