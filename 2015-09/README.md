@@ -28,6 +28,8 @@ Progress log
     05   2015-09-13  Arrays, Arrays.copyOf, System.arraycopy
     06   2015-09-15  GregorianCalendar
     07   2015-09-16  Class name rule, constructors
+    08   2015-09-18  Final instance fields, static fields and methods,
+                     method parameters
 
 Conclusion
 ----------
