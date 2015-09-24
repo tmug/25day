@@ -30,6 +30,9 @@ Progress log
     07   2015-09-16  Class name rule, constructors
     08   2015-09-18  Final instance fields, static fields and methods,
                      method parameters
+    09   2015-09-20  Field initialization, default constructor, this(),
+                     Initialization blocks
+    10   2015-09-24  Class imports, static imports, package scope
 
 Conclusion
 ----------
