@@ -28,11 +28,16 @@ Progress log
     05   2015-09-13  Arrays, Arrays.copyOf, System.arraycopy
     06   2015-09-15  GregorianCalendar
     07   2015-09-16  Class name rule, constructors
-    08   2015-09-18  Final instance fields, static fields and methods,
+    08   2015-09-18  final instance fields, static fields and methods,
                      method parameters
     09   2015-09-20  Field initialization, default constructor, this(),
                      Initialization blocks
     10   2015-09-24  Class imports, static imports, package scope
+    11   2015-10-05  Private fields
+    12   2015-10-06  Prevent inheritance - final class, final methods
+    13   2015-10-10  Casting object references
+    14   2015-10-11  ArrayStoreException, covariant return types,
+                     abstract classes
 
 Conclusion
 ----------
