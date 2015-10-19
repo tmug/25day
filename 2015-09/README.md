@@ -38,6 +38,7 @@ Progress log
     13   2015-10-10  Casting object references
     14   2015-10-11  ArrayStoreException, covariant return types,
                      abstract classes
+    15   2015-10-19  Protected access, Object, equals method
 
 Conclusion
 ----------
