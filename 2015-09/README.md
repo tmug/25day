@@ -54,3 +54,9 @@ Progress log
 
 Conclusion
 ----------
+
+I started this project on 01 September 2015 and finished it on 31
+December 2015. The project stretched for 4 months while my plan was
+to complete it in 2 months considering other commitments. I intend to
+learn advanced concepts of Java in future. I will plan better for my
+next 25 day project and stick to the plan.
