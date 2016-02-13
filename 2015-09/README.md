@@ -39,6 +39,18 @@ Progress log
     14   2015-10-11  ArrayStoreException, covariant return types,
                      abstract classes
     15   2015-10-19  Protected access, Object, equals method
+    16   2015-11-23  ArrayList, generic class, generic method
+    17   2015-11-24  Bounds for type variables
+    18   2015-11-25  LinkedList, HashSet, TreeSet, ArrayDeque,
+                     PriorityQueue, HashMap
+    19   2015-11-30  Creating threads, Interrupting threads
+    20   2015-12-01  Thread states
+    21   2015-12-04  Race condition, locks & conditions,
+                     synchronized method
+    22   2015-12-08  Synchronized block, client-side locking
+    23   2015-12-10  Volatile instance fields, deadlock
+    24   2015-12-15  BlockingQueue
+    25   2015-12-31  Callables, Futures
 
 Conclusion
 ----------
