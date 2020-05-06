@@ -2,7 +2,7 @@ June 2015: Learn JavaScript from MDN JavaScript Guide
 =====================================================
 
 One fine day in the year 2014, I decided to practise JavaScript. Getting
-started was easy as I found [MDN JavaScript Guide] [T1]. I wrote a few
+started was easy as I found [MDN JavaScript Guide][T1]. I wrote a few
 examples for a couple of days that followed. However, I did not devote
 time regularly to learn JavaScript and eventually gave up. In June 2015,
 I decided to do the learning as my first 25 day project. This activity
@@ -12,20 +12,20 @@ examples each day for 25 days.
 Contents
 --------
 * [Introduction](#readme)
-* [Progress log](#progress-log)
 * [Study URLs](#study-urls)
+* [Progress Log](#progress-log)
 * [Conclusion](#conclusion)
 
 Study URLs
 ----------
 
-01. [MDN JavaScript Guide] [T1]
-02. [MDN JavaScript reference] [T2]
+* [MDN JavaScript Guide][T1]
+* [MDN JavaScript reference][T2]
 
- [T1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
- [T2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+[T1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+[T2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
-Progress log
+Progress Log
 ------------
 
     Day  Date        Comment

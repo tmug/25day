@@ -9,10 +9,10 @@ each day for 25 days.
 Contents
 --------
 * [Introduction](#readme)
-* [Progress log](#progress-log)
+* [Progress Log](#progress-log)
 * [Conclusion](#conclusion)
 
-Progress log
+Progress Log
 ------------
 
     Day  Date        Comment
